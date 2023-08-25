@@ -131,12 +131,12 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 10.31-CL-N/A	                | 18-09-19         	 | UE4.23            	    |		N/A|
 | 10.40-CL-9380822           	| 25-09-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.40.rar|
 
-# Season 11
+# Chapter 2 Season 1
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 11.31-CL-N/A	             | N/A         	     | N/A          |	 https://cdn.fnbuilds.services/11.31.rar|
  
-# Season 12
+# Chaper 2 Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 12.00-CL-N/A	                | 20-02-20         	 | UE4.24            	    |		https://cdn.fnbuilds.services/12.00.rar|
@@ -150,12 +150,12 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 12.60-CL-N/A	                | 20-05-20         	 | UE4.25            	    |		N/A|
 | 12.61-CL-N/A	                | 26-05-20         	 | UE4.25            	    |		https://cdn.fnbuilds.services/12.61.zip|
 
-# Season 13
+# Chapter 2 Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 13.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		https://cdn.fnbuilds.services/13.00.rar|
 
-# Season 14
+# Chapter 2 Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 14.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		https://cdn.fnbuilds.services/14.00.rar|
@@ -166,7 +166,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 14.50-CL-N/A	                | 03-11-20         	 | UE4.26            	    |		N/A|
 | 14.60-CL-14786821           | 18-11-20        	  | UE4.26            	    |		https://cdn.fnbuilds.services/14.60.rar|
 
-# Season 15
+# Chapter 2 Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 15.00-CL-N/A	                | 02-12-20         	 | UE4.26            	    |		N/A|
@@ -175,9 +175,9 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 15.21-CL-N/A	                | 20-01-22         	 | UE4.26            	    |		N/A|
 | 15.30-CL-15341163	          | 02-02-21         	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.30.rar|
 | 15.40-CL-N/A	                | 16-02-21         	 | UE4.26            	    |		N/A|
-| 15.50-CL-N/A	                | 02-03-21         	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.50.rar|
+| 15.50-CL-N/A	                | 02-03-21         	 | UE4.26            	    |		N/A (im uploading it)|
 
-# Season 16
+# Chapter 2 Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 16.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
@@ -187,7 +187,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 16.40-CL-16218553             | 11-05-21        	 | UE4.26.1           	                    |		https://cdn.fnbuilds.services/16.40.rar|
 | 16.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		N/A|
 
-# Season 17
+# Chapter 2 Season 7
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 17.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
@@ -197,7 +197,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 17.40-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
 | 17.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://cdn.fnbuilds.services/17.50.zip|
 
-# Season 18
+# Chapter 2 Season 8
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 18.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
@@ -207,7 +207,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 18.30-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
 | 18.40-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://cdn.fnbuilds.services/18.40.zip|
 
-# Season 19
+# Chapter 3 Season 1
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 19.10-CL-N/A	                | N/A         	 | N/A           	    |	 https://cdn.fnbuilds.services/19.10.rar|
