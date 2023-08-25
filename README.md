@@ -212,7 +212,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 19.10-CL-N/A	                | N/A         	 | N/A           	    |	 https://cdn.fnbuilds.services/19.10.rar|
 
-# Season 20
+# Chapter 3 Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://cdn.fnbuilds.services/20.40.zip|
