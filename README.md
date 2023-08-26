@@ -5,7 +5,6 @@ Fortnite Builds Archive maintained by egator6.
 
 Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if you wish to have faster and more efficient downloads, check out [EasyInstallerV2](https://github.com/simplyblk/EasyInstallerV2)
 
-If you decide to use this for a project, you must provide credit of this GitHub repo.
 
 # Downloads
 
