@@ -169,7 +169,7 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 15.00-CL-N/A	                | 02-12-20         	 | UE4.26            	    |		N/A|
-| 15.10-CL-N/A	                | 15-12-20         	 | UE4.26            	    |		N/A|
+| 15.10-CL-15014719	           | 15-12-20         	 | UE4.26            	    |		N/A|
 | 15.20-CL-N/A	                | 13-01-21         	 | UE4.26            	    |		N/A|
 | 15.21-CL-N/A	                | 20-01-22         	 | UE4.26            	    |		N/A|
 | 15.30-CL-15341163	           | 02-02-21         	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.30.rar|
@@ -182,9 +182,9 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 | 16.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
 | 16.10-CL-N/A	                | 30-03-21         	 | UE4.26            	    |		N/A|
 | 16.20-CL-N/A	                | 13-04-21         	 | UE4.26            	    |		N/A|
-| 16.30-CL-N/A	                | 27-04-21        	 | UE4.26            	    |		N/A|
-| 16.40-CL-16218553             | 11-05-21        	 | UE4.26.1           	                    |		https://cdn.fnbuilds.services/16.40.rar|
-| 16.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		N/A|
+| 16.30-CL-N/A	                | 27-04-21        	  | UE4.26            	    |		N/A|
+| 16.40-CL-16218553            | 11-05-21        	  | UE4.26.1           	   |		https://cdn.fnbuilds.services/16.40.rar|
+| 16.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	  |		N/A|
 
 # Chapter 2 Season 7
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
