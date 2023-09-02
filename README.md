@@ -135,7 +135,7 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 11.31-CL-N/A	             | N/A         	     | N/A          |	 https://cdn.fnbuilds.services/11.31.rar|
  
-# Chaper 2 Season 2
+# Chapter 2 Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 12.00-CL-N/A	                | 20-02-20         	 | UE4.24            	    |		https://cdn.fnbuilds.services/12.00.rar|
