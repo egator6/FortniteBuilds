@@ -175,7 +175,7 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 | 15.20-CL-N/A	                | 13-01-21         	 | UE4.26            	    |		N/A|
 | 15.21-CL-N/A	                | 20-01-22         	 | UE4.26            	    |		N/A|
 | 15.30-CL-15341163	           | 02-02-21         	 | UE4.26            	    |		https://cdn.fnbuilds.services/15.30.rar|
-| 15.40-CL-N/A	                | 16-02-21         	 | UE4.26            	    |		https://drive.google.com/drive/folders/1804f-73Kxv9YPZruq9eG0OzlM8YUsGWe?usp=drive_link|
+| 15.40-CL-N/A	                | 16-02-21         	 | UE4.26            	    |		N/A|
 | 15.50-CL-N/A	                | 02-03-21         	 | UE4.26            	    |		N/A|
 
 # Chapter 2 Season 6
