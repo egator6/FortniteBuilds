@@ -125,15 +125,16 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 10.00-CL-7704164	             | 01-08-19         	     | UE4.23           |	 https://cdn.fnbuilds.services/10.00.zip|
-| 10.10-CL-N/A	                | 10-08-19         	 | UE4.23            	    |		N/A|
-| 10.20-CL-N/A	                | 27-08-19         	 | UE4.23            	    |		N/A|
+| 10.10-CL-N/A	                | 10-08-19         	 | UE4.23            	    |	 https://cdn.fnbuilds.services/10.10.zip|
+| 10.20-CL-N/A	                | 27-08-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.20.zip|
 | 10.30-CL-N/A	                | 11-09-19         	 | UE4.23            	    |		N/A|
-| 10.31-CL-N/A	                | 18-09-19         	 | UE4.23            	    |		N/A|
+| 10.31-CL-N/A	                | 18-09-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.31.zip|
 | 10.40-CL-9380822           	| 25-09-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/10.40.rar|
 
 # Chapter 2 Season 1
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 11.00-CL-N/A	             | N/A         	     | N/A          |	 https://cdn.fnbuilds.services/11.00.zip|
 | 11.31-CL-N/A	             | N/A         	     | N/A          |	 https://cdn.fnbuilds.services/11.31.rar|
  
 # Chapter 2 Season 2
