@@ -113,11 +113,11 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 9.00-CL-6337466	                | 09-05-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.00.zip|
-| 9.01-CL-N/A	                | 15-05-19        	 | UE4.23            	    |		N/A|
+| 9.01-CL-N/A	                | 15-05-19        	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.01.zip|
 | 9.10-CL-6639283	        | 19-05-19       	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.10.rar|
 | 9.20-CL-N/A	                | 06-06-19         	 | UE4.23            	    |		N/A|
-| 9.21-CL-N/A	                | 12-06-19         	 | UE4.23            	    |		N/A|
-| 9.30-CL-N/A	                | 09-07-19         	 | UE4.23            	    |		N/A|
+| 9.21-CL-N/A	                | 12-06-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.21.zip|
+| 9.30-CL-N/A	                | 09-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.30.zip|
 | 9.40-CL-N/A	                | 17-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.40.zip|
 | 9.41-CL-7609292	                | 23-07-19         	 | UE4.23            	    |		https://cdn.fnbuilds.services/9.41.rar|
 
