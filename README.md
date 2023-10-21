@@ -12,8 +12,8 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 | Build                  	 | Date          	 | Engine Version	    |		    Download links             |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 | OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	    |		https://cdn.fnbuilds.services/OT0.6.5.zip |
-| Cert-CL-3532353                | 20-07-17              | UE4.16-3532353           | N/A |
-| 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		N/A |
+| Cert-CL-3532353                | 20-07-17              | UE4.16-3532353           | https://rebrand.ly/1_2_X |
+| 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		https://rebrand.ly/1_2_0 |
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
