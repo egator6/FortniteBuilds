@@ -18,7 +18,6 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 1.6.3-CL-N/A      	      | 26-09-17      | N/A	               |	 https://rebrand.ly/1_6_3               |
 | 1.7.2-CL-3700114        	| 17-10-17      | UE4.16-3700114	    |	 https://cdn.fnbuilds.services/1.7.2.zip|
 | 1.8-CL-3724489          	| 25-10-17      | UE4.16-3724489	    |		https://cdn.fnbuilds.services/1.8.rar  |
 | 1.8.1-CL-3729133         | 02-11-17      | UE4.16-3729133     |  https://cdn.fnbuilds.services/1.8.1.rar|
