@@ -221,4 +221,4 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 # Chapter 4 Season 5 (FORTNITE OG)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 27.11-CL-29739262         	 |  NOV. 16th, 2023      	 | UE5.4.0	    |		N/A atm, I'll be uploading it later. |
+| 27.11-CL-29739262         	 |  November 16th, 2023      	 | UE5.4.0	    |		N/A atm, I'll be uploading it later. |
