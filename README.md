@@ -217,3 +217,8 @@ Downloads for Archive files (.zip & .rar) are capped at 70 Mb/s (650 Mbps), if y
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://cdn.blksservers.com/20.40.zip|
+
+# Chapter 4 Season 5 (FORTNITE OG)
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 27.11-CL-29739262         	 |  NOV. 16th, 2023      	 | UE5.4.0	    |		N/A atm, I'll be uploading it later. |
